@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Exercise2</string>
+    <string name="texto_Inicial_txtView">text_view</string>
+    <string name="textview">texto_view</string>
+    <string name="trocar_user">Trocar Usuário</string>
+    <string name="btn_confirmar">Confirmar</string>
+    <string name="btn_cancelar">Cancelar</string>
 </resources>
